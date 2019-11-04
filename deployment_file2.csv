@@ -1,0 +1,3 @@
+vm_name,ipaddr,gateway,netmask,sshport,ds,nw,hostname,username,timezone,deploymentOption,ova_file,vcenter_address,datacenter,cluster,resource_pool,vf
+sys2mmm00,10.61.120.54,10.61.120.33,255.255.255.224,22,int2AppOS-SimpliVity,EWP_PROTO_INT-2,sys2mmm00,ansible,Europe/Stockholm,2cpu_32gb_1nic,/nfs/deployment/CXP9021467_v5.0.5.ova,proto-vcenter,Karlskrona,SimpliVity-KA,int2,int2
+sys2mmm01,10.61.120.55,10.61.120.33,255.255.255.224,22,int2AppOS-SimpliVity,EWP_PROTO_INT-2,sys2mmm01,ansible,Europe/Stockholm,2cpu_32gb_1nic,/nfs/deployment/CXP9021467_v5.0.5.ova,proto-vcenter,Karlskrona,SimpliVity-KA,int2,int2
